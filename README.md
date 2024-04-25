@@ -1,7 +1,7 @@
  <img align="right" width="350px" style="margin-top:-20px" src="https://github.com/peddroccas/peddroccas/assets/78878140/37c202bb-358a-427b-8502-e61eb1685980">
  <h1 align="left"> Olá, eu sou o Pedro!</h1> 
 
-- 🔥 Desenvolvedor Back-End
+- 🔥 Desenvolvedor Full-Stack
 
 - 🔭 Atualmente procurando por um emprego
 
