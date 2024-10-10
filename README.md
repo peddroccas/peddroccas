@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil no GitHub! Sou desenvolvedor apaixonado por criar soluç
 
 - 🌱 Atualmente estou aprimorando minhas habilidades em desenvolvimento full-stack.
 - 💼 Interessado em oportunidades de colaboração em projetos de código aberto e em novos desafios profissionais.
-- 🎓 Formação em andamento em Ciência da Computação.
+- 🎓 Formação em andamento em Engenharia de Software.
 - 💡 Apaixonado por aprender e explorar novas tecnologias.
 
 ## 🛠️ Tecnologias e Ferramentas
